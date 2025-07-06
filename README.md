@@ -1,3 +1,5 @@
+# 🛡️ This tool is for educational purposes only. Do not use this against systems you don’t own or have permission to test.
+
 # phone_lookup
 Phone number information lookup
 
